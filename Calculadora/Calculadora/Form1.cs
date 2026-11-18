@@ -21,10 +21,10 @@ namespace Calculadora
         public Form1()
         {
             InitializeComponent();
+            
+
         }
-
-      
-
+        
         private void lblText_Click(object sender, EventArgs e)
         {
 

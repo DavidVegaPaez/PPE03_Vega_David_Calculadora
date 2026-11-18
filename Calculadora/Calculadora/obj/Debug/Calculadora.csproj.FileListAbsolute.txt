@@ -8,3 +8,13 @@ C:\Users\FIEECEC\Documents\calculadora\Calculadora\Calculadora\bin\Debug\Calcula
 C:\Users\FIEECEC\Documents\calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
 C:\Users\FIEECEC\Documents\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\FIEECEC\Documents\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\ESTUDIOS\calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\ESTUDIOS\calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\ESTUDIOS\calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\ESTUDIOS\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\ESTUDIOS\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\ESTUDIOS\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\ESTUDIOS\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\ESTUDIOS\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\ESTUDIOS\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\ESTUDIOS\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
