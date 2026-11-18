@@ -34,7 +34,7 @@ Para clonar, compilar y ejecutar este proyecto en un entorno local se requiere:
 ## 6. Instrucciones de ejecución
 1. **Clonar el repositorio:** Abre una terminal o consola de Git y ejecuta el siguiente comando (reemplazando con tu URL real):
    ```bash
-   git clone https://github.com[TuUsuario]/PPE03_[Apellido]_[Nombre]_Calculadora.git
+   git clone https://github.com/DavidVegaPaez/PPE03_Vega_David_Calculadora.git
    ```
 2. **Abrir el proyecto:** Navega a la carpeta descargada y haz doble clic en el archivo de solución (`Calculadora.sln`) o abre el proyecto desde Visual Studio.
 3. **Compilar y ejecutar:** Presiona la tecla `F5` o haz clic en el botón **Iniciar** (▶) en la barra superior de Visual Studio para compilar y ejecutar la aplicación.
